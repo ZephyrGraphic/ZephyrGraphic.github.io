@@ -8,7 +8,6 @@ body {
   font-size: 1.2rem;
   font-family: "Work Sans", sans-serif;
   min-height: 4000px;
-  padding-right: 0;
 }
 
 .hero::before {
@@ -57,10 +56,6 @@ body {
 .hero a:hover {
   background-color: var(--pink);
   color: white;
-}
-
-.offcanvas {
-  width: 100%;
 }
 
 .mynavbar {
