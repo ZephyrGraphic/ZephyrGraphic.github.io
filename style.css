@@ -8,6 +8,7 @@ body {
   font-size: 1.2rem;
   font-family: "Work Sans", sans-serif;
   min-height: 4000px;
+  padding-right: 0;
 }
 
 .hero::before {
@@ -471,7 +472,7 @@ footer li {
   .timeline li .timeline-image {
     width: 80px;
     height: 80px;
-  } 
+  }
   .timeline li .timeline-panel {
     width: 65%;
     transform: translateX(-20px);
