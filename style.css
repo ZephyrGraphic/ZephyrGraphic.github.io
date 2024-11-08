@@ -468,6 +468,13 @@ footer li {
     width: 80px;
     height: 80px;
   }
+    .mynavbar .nav-link {
+    font-size: 2rem;
+    text-align: center;
+  }
+  .sticky-top {
+    overflow: hidden;
+  }
   .timeline li .timeline-panel {
     width: 65%;
     transform: translateX(-20px);
